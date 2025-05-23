@@ -142,3 +142,4 @@ This avoids rendering invisible geometry.
 ---
 
 This concludes the implementation of Part 3 of our software rasterizer, combining geometry processing, lighting, animation, and performance optimization into a complete rendering pipeline.
+The code2 is the 3D object we created with Bounding Box, the code3 is the animation of the object with shading and Bounding Box with out culling and the code4 has all the above (3D object,shading,animatioon,Bounding Box and culling).
