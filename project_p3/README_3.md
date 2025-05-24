@@ -145,3 +145,5 @@ This concludes the implementation of Part 3 of our software rasterizer, combinin
 
 
 The code2 is the 3D object we created with Bounding Box, the code3 is the animation of the object with shading and Bounding Box with out culling and the code4 has all the above (3D object,shading,animatioon,Bounding Box and culling).
+
+Overall we did 5 extensions of the 3 that we had to implement
